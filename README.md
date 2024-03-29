@@ -26,8 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/user-authentication-profile-management.git
-   
+   https://github.com/Balaji-Mathews/USER-AUTHENTICATION-AND-PROFILE-MANAGEMENT-SYSTEM.git   
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
